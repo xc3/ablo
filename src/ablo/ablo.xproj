@@ -14,6 +14,8 @@
   </PropertyGroup>
   <PropertyGroup>
     <SchemaVersion>2.0</SchemaVersion>
+    <ApplicationInsightsResourceId>/subscriptions/046b437a-95a8-4bdc-8f13-aff2231d8d06/resourcegroups/Default-ApplicationInsights-EastUS/providers/microsoft.insights/components/ablo</ApplicationInsightsResourceId>
+    <ApplicationInsightsAnnotationResourceId>/subscriptions/046b437a-95a8-4bdc-8f13-aff2231d8d06/resourcegroups/Default-ApplicationInsights-EastUS/providers/microsoft.insights/components/ablo</ApplicationInsightsAnnotationResourceId>
   </PropertyGroup>
   <ItemGroup>
     <DnxInvisibleContent Include="bower.json" />
